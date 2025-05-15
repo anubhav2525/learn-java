@@ -1,7 +1,22 @@
-
 # Java
+
 ## Basic Practice set
+
+### If-else
+
+    1. Write a program to accept two integers and check they are equal or not.
+    2. Write a program to check a number is even or odd.
+    3. Write a program to check a number is positive and negative.
+    4. Write a program to check a number is positive even and negative even.
+    5. Write a program to check a number is negative even and negative odd.
+    6. Write a program to check a number is positive odd and negative odd.
+    7. Write a program a number is divisible by 2, 4, 5, 6, 7, 8, 11 and display the next term.
+    8. Write a program to check a leap year or not.
+    9. Write a program to find the largest among 2 number.
+    10.	Write a program to find the largest among 3 number.
+
 ### Loops
+
     1. Print numbers from 1 to 10 using a for loop
     2. Print even numbers between 1 and 20 using a while loop
     3. Calculate the factorial of a number using a loop
@@ -12,8 +27,43 @@
     8. Reverse a given number (e.g., 123 → 321)
     9. Find the sum of digits of a number
     10. Print all Armstrong numbers between 1 and 500
+    11.  Write a program to display first 10 natural number.
+    12. Write a program to display the sum of first 10 natural number.
+    13. Write a program to display n terms and their sum.
+    14. Write a program to calculate cube, square.
+    15. Write a program to calculate these format
+
+            1+x+x2+x3+x4
+            1+x2+x4+x6
+            1+x+x3+x5
+            x.x2+x.x3+x.x4
+
+    16. Write a program to print reverse order form n to 1.
+    17. Write a program to print 1 to N.
+    18. Write a program to find factorial.
+    19. Write a program to find table of N.
+    20. Write a program to find the accept a number and check it is prime number or not.
+    21. Write a program to find all prime number from 1 to N range.
+    22. Write a program to find all prime number from N to M range.
+    23. Write a program to multiply in the order in vertical order.
+        1 X 1 = 1
+        1 X 2 = 2
+        ..
+        1 X 10 = 10
+
+    24. Write a program to accept number and find digits.
+        Input - 12345
+        Output - 5
+
+    25. Print Fibonacci Series to N terms
+
+        0 1 1 2 3 5 8 13 21 34
+
+    26. Write a program to check prime number.
+    27. Write a program to accept a numbers and sum all and total even are present.
 
 ### Arrays
+
     1. Find the sum of all elements in an array
     2. Find the largest element in an array
     3. Find the smallest element in an array
@@ -36,6 +86,7 @@
     20. Implement binary search on a sorted array
 
 ### Strings
+
     1. Reverse a string
     2. Check if a string is a palindrome
     3. Count the number of vowels and consonants in a string
@@ -48,6 +99,7 @@
     10. Convert a string to a character array and vice versa
 
 ### Common Interview Questions
+
     1. Implement a stack using arrays
     2. Implement a queue using arrays
     3. Find the missing number in an array of 1 to n
@@ -60,6 +112,7 @@
     10. Find the contiguous subarray with maximum product
 
 ### Advanced Array Problems
+
     1. Trapping Rain Water problem
     2. Stock Buy and Sell problem (max profit)
     3. Maximum sum rectangle in a 2D matrix
@@ -72,6 +125,7 @@
     10. Find the shortest path in a maze
 
 ### Additional Practice Problems
+
     1. Find all triplets with zero sum
     2. Implement a circular buffer using an array
     3. Find the smallest positive missing number in an array
@@ -84,6 +138,7 @@
     10. Find the celebrity problem (knows nobody but everyone knows them)
 
 ### Loop-Based Algorithm Problems
+
     1. Print all prime numbers up to n using Sieve of Eratosthenes
     2. Print Floyd's triangle
     3. Print Pascal's triangle
@@ -96,6 +151,7 @@
     10. Print diamond pattern using stars
 
 ### Mixed Problems
+
     1. Find the length of the last word in a string
     2. Implement strstr() function (find substring)
     3. Reverse words in a string
@@ -108,6 +164,7 @@
     10. Find the longest common prefix in an array of strings
 
 ### Challenging Problems
+
     1. Find the minimum window substring
     2. Implement LRU (Least Recently Used) cache
     3. Find the longest increasing subsequence
@@ -118,6 +175,3 @@
     8. Find the maximum length of concatenated strings with unique characters
     9. Find the number of subarrays with sum equal to k
     10. Implement the Knapsack problem
-
-
-
